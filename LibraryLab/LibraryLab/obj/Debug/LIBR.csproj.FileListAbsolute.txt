@@ -1,0 +1,17 @@
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LibraryLab.FormAddOrder.resources
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LibraryLab.FormAdminPanel.resources
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LibraryLab.FormAdminPanelBooks.resources
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LibraryLab.FormAdminPanelPenalties.resources
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LibraryLab.FormAdminPanelRequests.resources
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LibraryLab.FormAdminPanelUsers.resources
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LibraryLab.FormBooksView.resources
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LibraryLab.FormMain.resources
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LibraryLab.FormMyBooks.resources
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LibraryLab.FormNotifs.resources
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LibraryLab.Properties.Resources.resources
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LIBR.csproj.GenerateResource.Cache
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\bin\Debug\LIBR.exe.config
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\bin\Debug\LIBR.exe
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\bin\Debug\LIBR.pdb
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LIBR.exe
+C:\Users\522dds\Desktop\Library\LibraryLab\LibraryLab\obj\Debug\LIBR.pdb
